@@ -8,10 +8,10 @@ All data processed and stored by a computer system must be in a **binary** forma
 {Check It!|assessment}(fill-in-the-blanks-1075735399)
 |||guidance
 # Solution
-(a)	Gigabytes.	1500
-(b)	Megabytes.	**1500000**
-(c)	Kilobytes	**1500000000**
-(d)	Bytes		**1500000000000**
+a:	Gigabytes.	1500
+b:	Megabytes.	**1500000**
+c:	Kilobytes	**1500000000**
+d:	Bytes		**1500000000000**
 |||
 
 Try the question on this website:

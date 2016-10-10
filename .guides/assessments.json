@@ -45,7 +45,7 @@
    "instructions": "A hard disk drive is advertised as having a storage capacity of 1.5 terabytes.\n\nIn the following spaces enter what that is in the units shown – do not use any commas.\nThe first one has been done for you.",
    "points": "1",
    "showValues": false,
-   "text": "(a)\tGigabytes.\t1500\n(b)\tMegabytes.\t<<<1500000>>>\n(c)\tKilobytes\t<<<1500000000>>>\n(d)\tBytes\t\t<<<1500000000000>>>",
+   "text": "a:\tGigabytes.\t1500\nb:\tMegabytes.\t<<<1500000>>>\nc:\tKilobytes\t<<<1500000000>>>\nd:\tBytes\t\t<<<1500000000000>>>",
    "tokens": {
     "blank": [
      "1500000",
@@ -53,11 +53,11 @@
      "1500000000000"
     ],
     "text": [
-     "(a)\tGigabytes.\t1500\n(b)\tMegabytes.\t",
+     "a:\tGigabytes.\t1500\nb:\tMegabytes.\t",
      0,
-     "\n(c)\tKilobytes\t",
+     "\nc:\tKilobytes\t",
      0,
-     "\n(d)\tBytes\t\t",
+     "\nd:\tBytes\t\t",
      0
     ]
    }
