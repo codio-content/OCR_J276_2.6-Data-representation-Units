@@ -1,0 +1,66 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4169951717",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "All data processed and stored by a computer system must be in a <<<binary>>> format. This is because the CPU contains millions of <<<transistors>>> which operate as switches. They have <<<two>>> states, <<<off>>> and on which correspond to the two <<<digits>>> <<<one>>> and zero.",
+   "tokens": {
+    "blank": [
+     "binary",
+     "transistors",
+     "two",
+     "off",
+     "digits",
+     "one"
+    ],
+    "text": [
+     "All data processed and stored by a computer system must be in a ",
+     0,
+     " format. This is because the CPU contains millions of ",
+     0,
+     " which operate as switches. They have ",
+     0,
+     " states, ",
+     0,
+     " and on which correspond to the two ",
+     0,
+     " ",
+     0,
+     " and zero."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1075735399",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "A hard disk drive is advertised as having a storage capacity of 1.5 terabytes.\n\nIn the following spaces enter what that is in the units shown – do not use any commas.\nThe first one has been done for you.",
+   "points": "1",
+   "showValues": false,
+   "text": "(a)\tGigabytes.\t1500\n(b)\tMegabytes.\t<<<1500000>>>\n(c)\tKilobytes\t<<<1500000000>>>\n(d)\tBytes\t\t<<<1500000000000>>>",
+   "tokens": {
+    "blank": [
+     "1500000",
+     "1500000000",
+     "1500000000000"
+    ],
+    "text": [
+     "(a)\tGigabytes.\t1500\n(b)\tMegabytes.\t",
+     0,
+     "\n(c)\tKilobytes\t",
+     0,
+     "\n(d)\tBytes\t\t",
+     0
+    ]
+   }
+  }
+ }
+]
