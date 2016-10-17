@@ -13,16 +13,16 @@ The two digits 1 and 0 are called **bits**. As a program or image may consist of
 
 1 **kilobyte** = $2^{10}$ bytes = 1024 bytes.
 
-1 **megabyte** = $2^{10}$ kilobytes or 220 bytes
+1 **megabyte** = $2^{10}$ kilobytes or $2^{20}$ bytes
 
-1 **gigabyte** = $2^{10}$ megabytes = 230 bytes
+1 **gigabyte** = $2^{10}$ megabytes = $2^{30}$ bytes
 
-1 **terabyte** = $2^{10}$ gigabytes = 240 bytes
+1 **terabyte** = $2^{10}$ gigabytes = $2^{40}$ bytes
 
-1 **petabyte** = $2^{10}$terabytes = 250 bytes
+1 **petabyte** = $2^{10}$ terabytes = $2^{50}$ bytes
 
 
-Using the prefixes kilo, mega, giga, tera etc. has led to some confusion and controversy as they are official prefixes of the SI system and in all other applications each one is 1000 or 103 times higher than the previous one e.g. megahertz (MHz), as it uses the decimal system and not the binary system.
+Using the prefixes kilo, mega, giga, tera etc. has led to some confusion and controversy as they are official prefixes of the SI system and in all other applications each one is 1000 or $10^3$ times higher than the previous one e.g. megahertz (MHz), as it uses the decimal system and not the binary system.
 
  These two methods of calculating these values are known as the **binary prefix** and the **decimal prefix**.
 
